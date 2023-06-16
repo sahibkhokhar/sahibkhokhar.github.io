@@ -1,11 +1,11 @@
 {
-  "name": "websitetest",
-  "version": "1.0.0",
-  "description": "test website",
+  "name": "sahibkhokhar.github.io",
+  "version": "",
+  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "sahib",
+  "author": "Sahib Khokhar",
   "license": "ISC"
 }
