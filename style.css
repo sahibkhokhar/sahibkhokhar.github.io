@@ -1,8 +1,16 @@
 body {
     background-color: white;
 }
-div1 {
+h2 {
     color: black;
     text-align: center;
     text-shadow: 0cqb 0.12em 0.9em blue;
+}
+button {
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
 }
